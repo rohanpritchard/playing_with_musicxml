@@ -150,6 +150,9 @@
     <type>quarter</type>
     <stem>up</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="under" />
+    </notations>
    </note>
    <note color="#000000" default-x="132">
     <pitch>
@@ -186,6 +189,9 @@
     <type>quarter</type>
     <stem>up</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="under" />
+    </notations>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 2 ==============-->
@@ -201,6 +207,9 @@
     <type>quarter</type>
     <stem>up</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="under" />
+    </notations>
    </note>
    <note color="#000000" default-x="70" default-y="-15">
     <pitch>
@@ -237,6 +246,9 @@
     <type>quarter</type>
     <stem>up</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="under" />
+    </notations>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 3 ==============-->
@@ -252,6 +264,9 @@
     <type>quarter</type>
     <stem>up</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="under" />
+    </notations>
    </note>
    <note color="#000000" default-x="70">
     <pitch>
@@ -288,6 +303,9 @@
     <type>quarter</type>
     <stem>up</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="under" />
+    </notations>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 4 ==============-->
@@ -303,6 +321,9 @@
     <type>quarter</type>
     <stem>up</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="under" />
+    </notations>
    </note>
    <note color="#000000" default-x="70" default-y="-15">
     <pitch>
@@ -339,6 +360,9 @@
     <type>quarter</type>
     <stem>up</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="under" />
+    </notations>
    </note>
    <barline>
     <bar-style>light-heavy</bar-style>
