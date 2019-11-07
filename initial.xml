@@ -139,6 +139,12 @@
     <voice>1</voice>
     <staff>1</staff>
    </direction>
+   <direction>
+    <direction-type>
+     <wedge default-x="11" default-y="-85" color="#000000" type="crescendo" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="76">
     <pitch>
      <step>F</step>
@@ -178,6 +184,13 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
+   <direction>
+    <direction-type>
+     <wedge default-x="-8" default-y="-85" color="#000000" type="stop" />
+    </direction-type>
+    <offset sound="no">255</offset>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="244">
     <pitch>
      <step>F</step>
@@ -196,6 +209,12 @@
   </measure>
   <!--============== Part: P1, Measure: 2 ==============-->
   <measure number="2" width="239">
+   <direction>
+    <direction-type>
+     <wedge default-x="11" default-y="-85" color="#000000" type="diminuendo" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
      <step>C</step>
@@ -235,6 +254,13 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
+   <direction>
+    <direction-type>
+     <wedge default-x="-8" default-y="-85" color="#000000" type="stop" />
+    </direction-type>
+    <offset sound="no">255</offset>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="183" default-y="-15">
     <pitch>
      <step>C</step>
@@ -253,6 +279,12 @@
   </measure>
   <!--============== Part: P1, Measure: 3 ==============-->
   <measure number="3" width="239">
+   <direction>
+    <direction-type>
+     <wedge default-x="11" default-y="-85" color="#000000" type="crescendo" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="15">
     <pitch>
      <step>F</step>
@@ -292,6 +324,13 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
+   <direction>
+    <direction-type>
+     <wedge default-x="-8" default-y="-85" color="#000000" type="stop" />
+    </direction-type>
+    <offset sound="no">255</offset>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="183">
     <pitch>
      <step>F</step>
@@ -310,6 +349,12 @@
   </measure>
   <!--============== Part: P1, Measure: 4 ==============-->
   <measure number="4" width="254">
+   <direction>
+    <direction-type>
+     <wedge default-x="11" default-y="-85" color="#000000" type="diminuendo" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
      <step>C</step>
@@ -349,6 +394,13 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
+   <direction>
+    <direction-type>
+     <wedge default-x="-8" default-y="-85" color="#000000" type="stop" />
+    </direction-type>
+    <offset sound="no">255</offset>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="183" default-y="-15">
     <pitch>
      <step>C</step>
